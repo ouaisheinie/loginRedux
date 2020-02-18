@@ -41,7 +41,7 @@ class NavigationBar extends Component {
     return (
       <nav className="navbar navbar-expand-lg navbar-light bg-light mb-3">
         <div className="container">
-          <Link className="navbar-brand" to="/">Rails365-ReduxLogin</Link>
+          <Link className="navbar-brand" to="/">ReduxLogin</Link>
           <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample05" aria-controls="navbarsExample05" aria-expanded="false" aria-label="Toggle navigation">
             <span className="navbar-toggler-icon"></span>
           </button>
